@@ -1,0 +1,7 @@
+.devcontainer
+.github
+.next
+node_modules
+.gitignore
+README.md
+dockerfile
